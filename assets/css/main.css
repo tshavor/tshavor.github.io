@@ -19,7 +19,7 @@ body {
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
     font-family: "Raleway";
-    font-weight: 300;
+    font-weight: 400;
     color: #333;
 }
 
@@ -152,7 +152,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/blue.png) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
