@@ -317,6 +317,14 @@ sm {
 	width: 800px;
 }
 
-#dicepic {
+#jacketpic {
 	padding-top: 8px;
+}
+
+.contact_me{
+	padding-left: 11px;
+}
+
+.social_coding{
+	padding-left: 16px;
 }
