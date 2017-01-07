@@ -326,5 +326,9 @@ sm {
 }
 
 .social_coding{
-	padding-left: 16px;
+	padding-left: -5px;
+}
+
+.img-responsive{
+	box-shadow: 10px 10px 5px grey;
 }
